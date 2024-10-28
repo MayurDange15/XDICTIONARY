@@ -40,7 +40,7 @@ function App() {
       >
         Search
       </button>
-      <h5>Defination:</h5>
+      <h5>Definition:</h5>
       <div style={{ marginTop: "20px", fontSize: "18px" }}>{result}</div>
     </div>
   );
